@@ -1,0 +1,5 @@
+name = "wright_sat"
+version = "0.1.0"
+defaultTargets = ["WrightSAT"]
+[[lean_lib]]
+name = "WrightSAT"

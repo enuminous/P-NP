@@ -1,0 +1,47 @@
+number,animal,adapted_check,assessment,execution_status
+1,TORTOISE,circularity,Pass: no NP-hardness assumption,local mathematical screening; NOT upstream animal execution
+2,OWL,truth-table witness,Pass: unique solution for each gadget,local mathematical screening; NOT upstream animal execution
+3,OCTOPUS,factorization,Pass: independent block conjunction,local mathematical screening; NOT upstream animal execution
+4,GECKO,bit-flip local optimality,Pass: zero assignment plateau,local mathematical screening; NOT upstream animal execution
+5,HIVE,baseline comparison,Limit: 2-SAT is in P,local mathematical screening; NOT upstream animal execution
+6,EAGLE,combinatorial audit,Pass: exactly three clauses per gadget,local mathematical screening; NOT upstream animal execution
+7,CRAB,negative control,Pass: sideways move escapes,local mathematical screening; NOT upstream animal execution
+8,SHEPHERD,generalization,Limit: no general SAT lower bound,local mathematical screening; NOT upstream animal execution
+9,PULSE,cost function,Pass: unsatisfied-clause count defined,local mathematical screening; NOT upstream animal execution
+10,CAT,independent witness,Pass: all ones,local mathematical screening; NOT upstream animal execution
+11,FOX,reproducibility,Pass: Python exhaustive up to n=16,local mathematical screening; NOT upstream animal execution
+12,SPIDER,algorithm specification,Pass: strict one-bit improving only,local mathematical screening; NOT upstream animal execution
+13,RAVEN,initialization,Pass: all zero,local mathematical screening; NOT upstream animal execution
+14,DOLPHIN,determinism,Pass: deterministic stopping property,local mathematical screening; NOT upstream animal execution
+15,ANT,logical consistency,Pass: no contradiction,local mathematical screening; NOT upstream animal execution
+16,MOTH,finite verification,Pass: checked up to 16,local mathematical screening; NOT upstream animal execution
+17,SHARK,lower bound,Limit: restricted family only,local mathematical screening; NOT upstream animal execution
+18,PENGUIN,parameter dependence,Pass: m arbitrary,local mathematical screening; NOT upstream animal execution
+19,BAT,adversarial relaxation,Pass: sideways escape,local mathematical screening; NOT upstream animal execution
+20,HEDGEHOG,counterexample,Pass: refutes broader inference,local mathematical screening; NOT upstream animal execution
+21,CROCODILE,scope,Pass: no P≠NP claim,local mathematical screening; NOT upstream animal execution
+22,DRAGON,quantifier audit,Pass: all strict improving one-bit moves,local mathematical screening; NOT upstream animal execution
+23,TURTLE,boundary cases,Pass: m>=1,local mathematical screening; NOT upstream animal execution
+24,MAGPIE,symmetry,Pass: blocks identical,local mathematical screening; NOT upstream animal execution
+25,WOLF,alternative algorithm,Pass: 2-SAT polynomial,local mathematical screening; NOT upstream animal execution
+26,ELEPHANT,witness length,Pass: 2m bits,local mathematical screening; NOT upstream animal execution
+27,CHAMELEON,proof economy,Pass: 3-clause gadget,local mathematical screening; NOT upstream animal execution
+28,JELLYFISH,perturbation,Limit: not robust to plateau allowance,local mathematical screening; NOT upstream animal execution
+29,BEAVER,independence,Pass: disjoint variables,local mathematical screening; NOT upstream animal execution
+30,MANTIS,greedy choice,Pass: no strictly better neighbor,local mathematical screening; NOT upstream animal execution
+31,BISON,satisfiability,Pass: all ones,local mathematical screening; NOT upstream animal execution
+32,WEASEL,complexity class,Pass: 2-CNF is polynomial,local mathematical screening; NOT upstream animal execution
+33,SALMON,sampling,Limit: enumeration only small n,local mathematical screening; NOT upstream animal execution
+34,ORCA,search space,Pass: 2^(2m) assignments,local mathematical screening; NOT upstream animal execution
+35,MOLE,model mismatch,Limit: not all algorithms,local mathematical screening; NOT upstream animal execution
+36,LYNX,identifiability,Pass: explicit cost,local mathematical screening; NOT upstream animal execution
+37,HORSE,stability,Pass: local plateau,local mathematical screening; NOT upstream animal execution
+38,TERMITE,scalability,Limit: exponential enumeration,local mathematical screening; NOT upstream animal execution
+39,PHOENIX,rescue strategy,Pass: 2-step escape,local mathematical screening; NOT upstream animal execution
+40,COBRA,certification,Pending: Lean compilation,local mathematical screening; NOT upstream animal execution
+41,WHALE,inductive structure,Pass: per-block property,local mathematical screening; NOT upstream animal execution
+42,FALCON,failure reporting,Pass: negative results preserved,local mathematical screening; NOT upstream animal execution
+43,RHINO,independent evaluation,Pending: external review,local mathematical screening; NOT upstream animal execution
+44,BONOBO,formal assumptions,Pass: explicit,local mathematical screening; NOT upstream animal execution
+45,AXOLOTL,new physics,Not applicable,local mathematical screening; NOT upstream animal execution
+46,BUTTERFLY,publication gate,Conditional: restricted theorem only,local mathematical screening; NOT upstream animal execution

@@ -1,0 +1,11 @@
+test_counterexample_escape (test_experiment.AuditTests.test_counterexample_escape) ... ok
+test_one_flip_plateau (test_experiment.AuditTests.test_one_flip_plateau) ... ok
+test_results (test_experiment.AuditTests.test_results) ... ok
+test_strict_descent_stuck (test_experiment.AuditTests.test_strict_descent_stuck) ... ok
+test_unique_solution (test_experiment.AuditTests.test_unique_solution) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.012s
+
+OK
+Exit code: 0
